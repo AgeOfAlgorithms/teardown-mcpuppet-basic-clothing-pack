@@ -1,0 +1,6 @@
+name = McPuppet Basic Clothing Pack Vol 1
+author = AgeOfAlgorithms and Claude
+description = 27 pieces of clothing and armour for the McPuppet Inventory System (required: enable it too, then play any map, single player or multiplayer). With the inventory everyone starts in their underwear; drag a piece onto the head, upper body, lower body or feet slot and your character wears it, shaped to that character's own build, and everyone sees it. Each piece has defense (a share of every hit blocked), mobility (walking speed and jump) and noise (for mods whose creatures listen): heavy armour protects and slows you down, sneakers are fast and quiet. T-shirt, leather jacket, hoodie, hi-vis vest, tactical vest, jeans, shorts, leather boots, sneakers, hard hat, steel helmet; chain mail, plate armour, plate legs, sabatons and a great helm; and three hero costumes: Night Watch, Captain Comet and Gecko. Buy them from the inventory's store, or find them where other mods put them.
+tags = Gameplay
+version = 2
+preview = preview_td.jpg
