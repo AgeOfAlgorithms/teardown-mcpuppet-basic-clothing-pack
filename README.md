@@ -17,9 +17,10 @@ On the Steam Workshop: [McPuppet Basic Clothing Pack Vol 1](https://steamcommuni
 - Clothes fit every character of the game: tall, short, broad or slim, hair and all.
 
 ## Stats
-Every piece has three numbers, shown when you point at it in the inventory:
+Every piece has its numbers, shown when you point at it in the inventory:
 - **Defense**: the share of every hit it blocks (pieces add up: full plate blocks most of a blow).
-- **Mobility**: walking speed and jump height. Heavy armour slows you down; sneakers and the hero suits make you quicker.
+- **Mobility**: walking speed and jump height on land. Heavy armour slows you down; sneakers and the hero suits make you quicker.
+- **Swim**: speed in water instead. Metal armour drags you down: a full plate set swims at a crawl, chain mail slowly.
 - **Noise**: how loud you move, for mods whose creatures listen. Plate clanks, sneakers are quiet.
 
 ## What's in it
